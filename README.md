@@ -4,8 +4,8 @@
 
 Os requisitos são:
 
-> . HTML básico https://www.w3schools.com/html/
-> . CSS básico
+>  HTML básico (https://www.w3schools.com/html/).
+>  CSS básico
 
 🚀 Let's code! 🚀
  
