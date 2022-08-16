@@ -4,7 +4,7 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 Os requisitos são:
 
-. HTML básico
+###. HTML básico
 . CSS básico
 
 🚀 Let's code! 🚀
